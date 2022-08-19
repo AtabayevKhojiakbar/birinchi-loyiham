@@ -28,7 +28,7 @@ $result=mysqli_query($conn,$sql);
             <tr>
                 <th >#</th>
                 <th>Ism</th>
-                <th>Familyas</th>
+                <th>Familyasi</th>
                 <th>Email</th>
                 <th>Sana</th>
                 <th>Amal</th>
